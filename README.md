@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Software Development And Designing 
 - 💞️ I’m looking to collaborate on exiting projects 
 - 📫 reach me ...out on 
-      ++[Linkedin](https://www.linkedin.com/in/abhishek-mishra-dev/)
+   -[Linkedin](https://www.linkedin.com/in/abhishek-mishra-dev/)
 
 
 <!---
